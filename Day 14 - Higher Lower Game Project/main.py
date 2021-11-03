@@ -58,5 +58,5 @@ def game():
             clear()
 
 
-while input("Do you want to play Higher-Lower Game? Type 'y' for yes or 'n' for no: ") == 'y':
+while input("Do you want to play Higher-Lower Game? Type 'y' for yes or 'n' for no: ").lower() == 'y':
     game()
