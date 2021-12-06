@@ -28,7 +28,7 @@ while game_is_on:
     # If true, then turtle goes to starting position and level is up.
     if player.ycor() >= 280:
         player.next_level()
-        scoreboard.update_score()
+        scoreboard.increase_score()
         car_manager.update_speed()
 
     # Checks if turtle collide with cars.
