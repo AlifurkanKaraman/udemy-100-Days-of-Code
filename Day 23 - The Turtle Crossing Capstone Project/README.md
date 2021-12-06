@@ -13,7 +13,7 @@
 
 
 ## General Information
-- The main purpose of this game is to get to finish line, which is upper wall.
+- The main purpose of this game is to get to the finish line, which is upper wall.
 - Rules are basic: turtle goes up with 'up arrow', if you collide with block, the game is over.
 - After you cross finish line, level is gonna increase by 1 and blocks' speed are gonna increase.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
