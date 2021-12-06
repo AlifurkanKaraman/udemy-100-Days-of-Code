@@ -28,7 +28,7 @@
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 ## Setup
-In order to open the project you should install zip file and then extract it all in one folder on your PC. After that you should open your IDE, I use PyCharm. Finally, run the main.py file.
+In order to open the project you should install file and then extract it all in one folder on your PC. After that you should open python interpreter. Finally, run the main.py file.
 
 ## Project Status
 Project is:  _complete_ 
